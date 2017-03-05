@@ -1,0 +1,64 @@
+div.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.menu{
+    width: 100%;
+    float: left;
+    border: 0px solid;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.menu a:link, a:visited {
+    background-color: #e67817;
+    color: white;
+    padding: 5px 15px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+#header{
+    max-width: 10%;
+    height: auto;
+    
+}
+
+div.container{
+    width: 100%;
+    float: left;
+    border: 0px solid;
+}
+
+div.container-body{
+    width: 100%;
+    float: left;
+    border: 0px solid;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    text-align: center;
+    height: 100px;
+}class="menu"
+
+tr{
+    width: 100%;
+}
+
+#pc{
+    max-width: 50%;
+    height: auto;
+}
+
+p.namepc{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
